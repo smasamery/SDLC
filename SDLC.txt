@@ -8,4 +8,7 @@ analysis
 design
 development
 testing
+implementation
+maintenance
+
 Methodologies
