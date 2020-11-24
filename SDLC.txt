@@ -1,6 +1,8 @@
 Definition of SDLC
 SDLC or the Software Development Life Cycle is a process that produces software with the highest quality and lowest cost in the shortest time.
 
+In systems engineering, information systems and software engineering, the systems development life cycle, also referred to as the application development life-cycle, is a process for planning, creating, testing, and deploying an information system.
+
 Purpose
 
 stages
