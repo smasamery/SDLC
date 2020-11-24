@@ -15,3 +15,5 @@ Methodologies
 Lean
 Waterfall
 Spiral
+Agile
+Scrum
